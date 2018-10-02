@@ -293,7 +293,7 @@ h3{
 }
 
 #article-content-wrapper>.header {
-  border-top: 3px solid #fe4365;
+  border-top: 0px solid #fe4365;
   background: #fffacd;
 }
 
