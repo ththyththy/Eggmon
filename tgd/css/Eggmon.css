@@ -85,6 +85,11 @@ header #header-bar #header-top-notice strong.notice-badge{
   color: #ffca18
 }
 
+#main .menu-wrapper .spacer {
+  background: #ffca18;
+  height: 0.15em;
+}
+
 .pagination>li>a:hover{
   background-color: #feee7d;
   animation: infinite AquaLinkBG 1.5s;
