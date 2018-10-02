@@ -293,12 +293,12 @@ h3{
 }
 
 #article-content-wrapper>.header {
-	border-top: 0px solid #fe4365;
-	background: #fffacd;
+  border-top: 3px solid #fe4365;
+  background: #fffacd;
 }
 
 #article-content-wrapper>.footer {
-	background: #fffacd;
+  background: #fffacd;
 }
 
 #article-reply-area{
@@ -393,3 +393,6 @@ span.a-badge i.fa.fa-info-circle {
   border-radius:6px;
   background:0 0
 }
+
+#main #main-content>div.frame,
+#main .menu-wrapper{border-right:0;border-bottom:0;border-radius:6px;background:0 0}
