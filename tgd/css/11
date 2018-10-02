@@ -87,6 +87,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 .pagination>li>a:hover{
   background-color: #feee7d;
+  animation: infinite AquaLinkBG 1.5s;
   color:#fff
 }
 
@@ -148,6 +149,15 @@ header #header-bar #header-top-notice strong.notice-badge{
   border-radius:6px 6px 0 0
 }
 
+#article-list #article-list-category > a:hover {
+  animation: infinite AquaLinkBG 2s
+}
+
+#article-list #article-list-category > a.active,
+#article-list #article-list-category>a:hover {
+  background: #efdc05
+}
+
 #article-reply-area #reply-best-area .reply,
 #article-reply-area #reply-real-area .reply{
   border:0
@@ -189,10 +199,23 @@ header #header-bar #header-top-notice strong.notice-badge{
   background:#fff4ea
 }
 
-#article-info,#article-list #article-list-category>a.active,
+#article-info,
+#article-list #article-list-category>a.active,
 #article-list #article-list-category>a:hover,
 h3{
   background: #efdc05
+}
+
+@keyframes AquaLinkBG {
+    0% {
+        background-color: #fffacd;
+    }
+    40% {
+        background-color: #feee7d;
+    }
+    100% {
+        background-color: #efdc05;
+    }
 }
 
 #article-reply-area{
@@ -358,7 +381,11 @@ h3{
   border-color:#fff
 }
 
-.btn-primary:active,.btn-primary:focus,.btn-primary:hover{
+.btn-primary:hover{
+  animation: infinite AquaLinkBG 2s;
+}
+
+.btn-primary:active,.btn-primary:focus{
   background-color: #efdc05 !important;
   border:none
 }
