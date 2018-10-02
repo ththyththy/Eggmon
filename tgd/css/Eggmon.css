@@ -319,11 +319,6 @@ h3{
     content: url("https://i.imgur.com/78hydwf.png");
 }
 
-.fa-info-circle:before {	
-  content: "\f05a";	
-  color: #ffffff	
-}	
-
 .badge {	
   display: inline-block;	
   padding: 0px 0px;	
