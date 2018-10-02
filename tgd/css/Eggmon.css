@@ -54,7 +54,8 @@ header #header-bar>.row{
   border-radius:6px
 }
 
-#main #main-content>div.frame,#main .menu-wrapper{
+#main #main-content>div.frame,
+#main .menu-wrapper{
   border-right:0;
   border-bottom:0;
   border-radius:6px;
@@ -67,22 +68,42 @@ header #header-bar #header-top-notice strong.notice-badge{
   color:#fff;font-weight:700
 }
 
-#main .menu-wrapper>.header{
+#main .menu-wrapper>.header {
   background: #ffca18;
-  color:#fff;
-  padding:.45em 1.4em .45em 1em;
+  color: #fff;
+  padding: 0.45em 1.4em 0.45em 1em;
   font-weight:700;
   border-radius:6px 6px 0 0
 }
 
-#board-info #board-info-bottom a,#board-info #viewers-area,#board-info h1>a,#main .menu-wrapper>a{
+#board-info #board-info-bottom a,
+#board-info #viewers-area,
+#board-info h1>a,
+#main .menu-wrapper>a{
   color: #4C4646
 }
 
-#main .menu-wrapper>a>em,
+#main .menu-wrapper>a>em {
+  color: #ffca18;
+  text-decoration: none;
+  font-style: normal;
+  width: 24px;
+  text-align: center;
+  display: inline-block;
+  font-weight: bold;
+}
 .pagination>li>a,
 .pagination>li>span{
   color: #ffca18
+}
+
+#main .menu-wrapper>a>i.fa.fa-square {
+    width: 24px;
+    display: inline-block;
+    text-align: center;
+    font-size: 0.1em;
+    color: #ffca18;
+    vertical-align: 0.2em;
 }
 
 #main .menu-wrapper .spacer {
