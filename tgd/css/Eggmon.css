@@ -1,8 +1,11 @@
 @import url(https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css);
 
 html {
-  background: #9fdda5;
-  height: auto !important
+  background: url(https://i.imgur.com/9S7UfZu.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover
 }
 
 body {
