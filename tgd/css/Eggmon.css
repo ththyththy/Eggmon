@@ -378,6 +378,9 @@ body{
 span.a-badge i.fa.fa-star:before{
   content:url(https://i.imgur.com/78hydwf.png)
 }
+.btn-outline-primary>i.fa.fa-thumbs-down:before{
+  content:url(https://i.imgur.com/9WARR1A.png)
+}
 
 #article-list #article-list-menu>.btn.write{
   margin-right:1em
