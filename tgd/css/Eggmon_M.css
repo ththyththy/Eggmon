@@ -1,0 +1,111 @@
+#main-content,body,footer{
+  background:#fafad2 !important
+}
+
+span.a-badge i.fa.fa-info-circle{
+  color:red!important
+}
+
+header{
+  border-bottom-color:#ffca18 !important;
+  background:#fdeca6 !important
+}
+
+header>#header-search-bar #header-search-input{border:2px solid #ffca18}
+header>#header-area>#header-search-link,header>#header-search-bar #header-search-btn{color:#ffca18}
+header>#header-area>a>h1{
+  background:url(https://tgd.kr/assets/images/logo_new.png) no-repeat;
+  background-size:90px 32px
+}
+
+#article-list>.article-list-row>.item>a.list-title>.list-writer.logged>span,
+.pagination>li>a,
+.pagination>li>span,
+header>#header-area>#header-bar-link{
+  color:#ffca18
+}
+
+#header-top-notice a{
+  font-weight:700;
+  color:#ffca18 !important
+}
+
+#header-top-notice strong.notice-badge{
+  background:#ffca18 !important
+}
+
+#article-content-wrapper>.header,
+#article-list>.article-list-row.notice{
+  background:#fffcdd !important
+}
+
+#article-content-wrapper>.header{
+  border-top:2px solid #ffca18
+}
+
+#article-list>.article-list-row has-category notice>.item>.list-header>strong{width:0}
+#article-list>.article-list-row.notice>.item>a.list-title{vertical-align:middle}
+#article-list>.article-list-row.notice>.item>a.list-title>.title-value{padding-left:6px}
+#article-list>.article-list-row.notice>.item>a.list-title>.list-writer{height:0!important;opacity:0;padding:0}
+#article-list>.article-list-row.notice>.item>.list-header{width:12px}
+#article-list>.article-list-row>.item>span.a-badge{width:40px}
+#article-list>.article-list-row>.item>a.list-title>.title-value{max-width:240px}
+#article-list>.article-list-row>.item>.list-header>span{background-color:#ffca18 !important}
+#article-list>.article-list-row>.item>.list-header>strong{font-size:0;padding:0}
+#article-list #article-list-category{background:#f6f6cc}
+#article-list #article-list-category>a{
+  display:inline-block;
+  padding:11px 16px;
+  background:#f6f6cc;
+  text-decoration:none;
+  font-size:12px;
+  font-weight:700
+}
+#article-list #article-list-category>a:focus{background:#fff}
+#article-reply-area #reply-best-area .reply>.reply-header,
+#article-reply-area #reply-real-area .reply>.reply-header{background:#e6e6fa!important}
+#article-reply-area>.header h5{color:#ffca18}
+#article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged{color:#ffca18!important}
+#article-list>.article-list-row.notice:hover,#article-list>.article-list-row:hover{background-color:#fffcdd}
+nav#nav>.nav-header{background:#ffca18}
+#article-list #article-list-menu>.btn.best>.fa.fa-star:before,
+.btn-outline-success>i.fa.fa-thumbs-up:before,
+span.a-badge i.fa.fa-star:before{
+  content:url(https://i.imgur.com/78hydwf.png)
+}
+.btn-outline-primary>i.fa.fa-thumbs-down:before{
+  content:url(https://i.imgur.com/9WARR1A.png)
+}
+#article-list #article-list-menu>.btn.best,
+.btn-outline-success{border-color:#ffca18;color:#ffca18}
+
+#board-info{
+  border-top:4px solid #ffca18;
+  background:#f6f6cc;
+  max-height:46px;
+  max-block-size:46px
+}
+
+#board-info>a.board-right-menu{
+  max-height:40px;
+  border:0;
+  vertical-align:middle;
+  color:#ffca18
+}
+
+.btn-primary{background:#ffca18;border-color:#fff}
+.btn-primary:active,.btn-primary:focus,.btn-primary:hover{background-color:#ffca18!important;border:none}
+.pagination>li>a:hover{background-color:#feee7d;color:#fff}
+.pagination>.active>a,
+.pagination>.active>a:focus,
+.pagination>.active>a:hover,
+.pagination>.active>span,
+.pagination>.active>span:focus,
+.pagination>.active>span:hover{
+  background-color:#ffca18;
+  border-color:#ffca18
+}
+
+.fr-popup .fr-command.fr-btn,.fr-toolbar .fr-command.fr-btn{color:#4c4646}
+span.a-badge i.fa.fa-star{color:#ffca18}
+.panel-title{background:0 0}
