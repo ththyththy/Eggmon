@@ -63,8 +63,8 @@ header>#header-area>#header-bar-link{
 }
 #article-list #article-list-category>a:focus{background:#fff}
 #article-reply-area #reply-best-area .reply>.reply-header,
-#article-reply-area #reply-real-area .reply>.reply-header{background:#e6e6fa!important}
-#article-reply-area>.header h5{color:#ffca18}
+#article-reply-area #reply-real-area .reply>.reply-header{background:#fffcdd!important}
+#article-reply-area>.header h5{color:#585858}
 #article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged{color:#ffca18!important}
 #article-list>.article-list-row.notice:hover,#article-list>.article-list-row:hover{background-color:#fffcdd}
 nav#nav>.nav-header{background:#ffca18}
