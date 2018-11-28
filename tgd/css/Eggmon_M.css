@@ -59,9 +59,9 @@ header>#header-area>#header-bar-link{
   background:#1f94f5;
   text-decoration:none;
   font-size:12px;
-  color:#fff!important;
   font-weight:700
 }
+
 #article-list #article-list-category>a:focus{background:#fff}
 #article-reply-area #reply-best-area .reply>.reply-header,
 #article-reply-area #reply-real-area .reply>.reply-header{background:#9cd6ec!important}
