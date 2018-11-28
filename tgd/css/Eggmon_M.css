@@ -7,14 +7,14 @@ span.a-badge i.fa.fa-info-circle{
 }
 
 header{
-  border-bottom-color:#ffca18 !important;
+  border-bottom-color:#1f94f5 !important;
   background:#fdeca6 !important
 }
 
-header>#header-search-bar #header-search-input{border:2px solid #ffca18}
-header>#header-area>#header-search-link,header>#header-search-bar #header-search-btn{color:#ffca18}
+header>#header-search-bar #header-search-input{border:2px solid #1f94f5}
+header>#header-area>#header-search-link,header>#header-search-bar #header-search-btn{color:#1f94f5}
 header>#header-area>a>h1{
-  background:url(https://i.imgur.com/dsx0YiE.png) no-repeat;
+  background:url(https://d4fodtu7cqfym.cloudfront.net/images/logo_new.png) no-repeat;
   background-size:90px 32px
 }
 
@@ -22,25 +22,25 @@ header>#header-area>a>h1{
 .pagination>li>a,
 .pagination>li>span,
 header>#header-area>#header-bar-link{
-  color:#ffca18
+  color:#1f94f5
 }
 
 #header-top-notice a{
   font-weight:700;
-  color:#ffca18 !important
+  color:#1f94f5 !important
 }
 
 #header-top-notice strong.notice-badge{
-  background:#ffca18 !important
+  background:#1f94f5 !important
 }
 
 #article-content-wrapper>.header,
 #article-list>.article-list-row.notice{
-  background:#fffcdd !important
+  background:#4ab4f3 !important
 }
 
 #article-content-wrapper>.header{
-  border-top:2px solid #ffca18
+  border-top:2px solid #1f94f5
 }
 
 #article-list>.article-list-row has-category notice>.item>.list-header>strong{width:0}
@@ -50,24 +50,24 @@ header>#header-area>#header-bar-link{
 #article-list>.article-list-row.notice>.item>.list-header{width:12px}
 #article-list>.article-list-row>.item>span.a-badge{width:40px}
 #article-list>.article-list-row>.item>a.list-title>.title-value{max-width:240px}
-#article-list>.article-list-row>.item>.list-header>span{background-color:#ffca18 !important}
+#article-list>.article-list-row>.item>.list-header>span{background-color:#1f94f5 !important}
 #article-list>.article-list-row>.item>.list-header>strong{font-size:0;padding:0}
-#article-list #article-list-category{background:#f6f6cc}
+#article-list #article-list-category{background:#9cd6ec}
 #article-list #article-list-category>a{
   display:inline-block;
   padding:11px 16px;
-  background:#f6f6cc;
+  background:#9cd6ec;
   text-decoration:none;
   font-size:12px;
   font-weight:700
 }
 #article-list #article-list-category>a:focus{background:#fff}
 #article-reply-area #reply-best-area .reply>.reply-header,
-#article-reply-area #reply-real-area .reply>.reply-header{background:#fffcdd!important}
+#article-reply-area #reply-real-area .reply>.reply-header{background:#9cd6ec!important}
 #article-reply-area>.header h5{color:#585858}
-#article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged{color:#ffca18!important}
-#article-list>.article-list-row.notice:hover,#article-list>.article-list-row:hover{background-color:#fffcdd}
-nav#nav>.nav-header{background:#ffca18}
+#article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged{color:#1f94f5!important}
+#article-list>.article-list-row.notice:hover,#article-list>.article-list-row:hover{background-color:#9cd6ec}
+nav#nav>.nav-header{background:#1f94f5}
 #article-list #article-list-menu>.btn.best>.fa.fa-star:before,
 .btn-outline-success>i.fa.fa-thumbs-up:before,
 span.a-badge i.fa.fa-star:before{
@@ -77,11 +77,11 @@ span.a-badge i.fa.fa-star:before{
   content:url(https://i.imgur.com/9WARR1A.png)
 }
 #article-list #article-list-menu>.btn.best,
-.btn-outline-success{border-color:#ffca18;color:#ffca18}
+.btn-outline-success{border-color:#1f94f5;color:#1f94f5}
 
 #board-info{
-  border-top:4px solid #ffca18;
-  background:#f6f6cc;
+  border-top:4px solid #1f94f5;
+  background:#4ab4f3;
   max-height:46px;
   max-block-size:46px
 }
@@ -90,22 +90,22 @@ span.a-badge i.fa.fa-star:before{
   max-height:40px;
   border:0;
   vertical-align:middle;
-  color:#ffca18
+  color:#1f94f5
 }
 
-.btn-primary{background:#ffca18;border-color:#fff}
-.btn-primary:active,.btn-primary:focus,.btn-primary:hover{background-color:#ffca18!important;border:none}
-.pagination>li>a:hover{background-color:#feee7d;color:#fff}
+.btn-primary{background:#1f94f5;border-color:#fff}
+.btn-primary:active,.btn-primary:focus,.btn-primary:hover{background-color:#1f94f5!important;border:none}
+.pagination>li>a:hover{background-color:#4ab4f3;color:#fff}
 .pagination>.active>a,
 .pagination>.active>a:focus,
 .pagination>.active>a:hover,
 .pagination>.active>span,
 .pagination>.active>span:focus,
 .pagination>.active>span:hover{
-  background-color:#ffca18;
-  border-color:#ffca18
+  background-color:#1f94f5;
+  border-color:#1f94f5
 }
 
 .fr-popup .fr-command.fr-btn,.fr-toolbar .fr-command.fr-btn{color:#4c4646}
-span.a-badge i.fa.fa-star{color:#ffca18}
+span.a-badge i.fa.fa-star{color:#1f94f5}
 .panel-title{background:0 0}
