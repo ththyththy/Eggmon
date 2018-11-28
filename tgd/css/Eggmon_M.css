@@ -34,13 +34,13 @@ header>#header-area>#header-bar-link{
   background:#1f94f5 !important
 }
 
-#article-content-wrapper>.header,
-#article-list>.article-list-row.notice{
+#article-content-wrapper>.header{
+  border-top:2px solid #1f94f5;
   background:#4ab4f3 !important
 }
 
-#article-content-wrapper>.header{
-  border-top:2px solid #1f94f5
+#article-list>.article-list-row.notice{
+  background:#4ab4f3 !important
 }
 
 #article-list>.article-list-row has-category notice>.item>.list-header>strong{width:0}
