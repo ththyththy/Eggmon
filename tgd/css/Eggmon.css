@@ -15,7 +15,7 @@ header .row>div:nth-child(1)>a {
   display: block;
   width: 145px;
   height: 50px;
-  background: url(https://github.com/ththyththy/dengdeng/blob/master/img/logo_new.png) no-repeat;
+  background: url(https://raw.githubusercontent.com/ththyththy/dengdeng/master/img/logo_new.png) no-repeat;
   background-size: auto 50px;
 }
 header .row>div:nth-child(1)>a img{opacity:0}
@@ -348,7 +348,7 @@ board-info #viewers-area #viewers {
 
 #board-info #viewers-area .fa-user:before {
     color: rgba(10, 59, 84, 0);
-    content: url("https://github.com/ththyththy/dengdeng/blob/master/img/dog-face.png");
+    content: url("https://raw.githubusercontent.com/ththyththy/dengdeng/master/img/dog-face.png");
 }
 
 .badge {	
