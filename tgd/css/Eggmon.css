@@ -28,7 +28,7 @@ header #header-bar {
 }
 
 header #header-bar .fa {
-  color: #58C9B9
+  color: #ffb961
 }
 
 header #header-bar #header-top-notice a,header #header-bar a.dropdown-toggle{
@@ -240,13 +240,13 @@ h3{
 
 @keyframes mabataki {
     0% {
-        background-color: #a8dba8;
+        background-color: #ffd061;
     }
     40% {
-        background-color: #cff09e;
+        background-color: #fff6b0;
     }
     100% {
-        background-color: #a8dba8;
+        background-color: #ffd061;
     }
 }
 
