@@ -1,5 +1,10 @@
 //*@import url(https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css);*//
-@font-face { font-family: 'TDTDTadakTadak'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/TDTDTadakTadak.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face {
+  font-family: 'TDTDTadakTadak';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/TDTDTadakTadak.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 html {
   background: url(https://i.imgur.com/9S7UfZu.png) no-repeat center center fixed;
@@ -11,7 +16,7 @@ html {
 
 body {
   background: transparent;
-  font-family: 'NanumSquareRound';
+  font-family: 'TDTDTadakTadak';
   font-size: 15px
 }
 
