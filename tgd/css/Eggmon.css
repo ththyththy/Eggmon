@@ -6,6 +6,10 @@
   font-style: normal;
 }
 
+html, body, table, div, p {
+ font-family: 'SeoulNamsanM';
+}
+
 html {
   background: url(https://i.imgur.com/9S7UfZu.png) no-repeat center center fixed;
   -webkit-background-size: cover;
@@ -16,7 +20,6 @@ html {
 
 body {
   background: transparent;
-  font-family: 'TDTDTadakTadak';
   font-size: 15px
 }
 
