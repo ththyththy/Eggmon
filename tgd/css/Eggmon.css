@@ -1,5 +1,4 @@
-//*@import url(https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css);*//
-@import url(https://ththyththy.github.io/Eggmon/TDTDTadakTadak.css);
+@import url(https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css);
 
 html {
   background: url(https://i.imgur.com/9S7UfZu.png) no-repeat center center fixed;
@@ -11,7 +10,7 @@ html {
 
 body {
   background: transparent;
-  font-family: 'TDTDTadakTadak';
+  font-family: 'NanumSquareRound';
   font-size: 15px
 }
 
