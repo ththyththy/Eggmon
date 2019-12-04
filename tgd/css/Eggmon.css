@@ -88,9 +88,9 @@ header #header-bar #header-top-notice strong.notice-badge{
 #board-info h1>a,
 #main .menu-wrapper>a {
     border-bottom: none;
-    background:#4C4646;
+    background:#ffb961;
     border-radius:30px;
-    border:4px solid #4C4646;
+    border:4px solid #ffb961;
 }
 
 #main .menu-wrapper>a>em {
