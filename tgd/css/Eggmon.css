@@ -60,11 +60,11 @@ header #header-bar>.row{
 }
 
 #main #main-content>div.frame,
-#main .menu-wrapper {
-   border-right: 0px solid #ffb961;
-   border-bottom: 0px solid rgba(235, 234, 232, 0);
-   margin-bottom: 0;
-   padding-bottom: 0.8em;
+#main .menu-wrapper{
+  border-right:0;
+  border-bottom:0;
+  border-radius:6px;
+  background:0 0
 }
 
 header #header-bar #header-top-notice strong.notice-badge{
@@ -76,7 +76,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 #main .menu-wrapper>.header {
   background: #ffb961;
-  color : #ffb961;
+  color : #fff;
   padding:0.45em 1.4em 0.45em 1em;
   font-weight:bold;
   border-radius:20px 20px 20px 20px;
@@ -86,11 +86,8 @@ header #header-bar #header-top-notice strong.notice-badge{
 #board-info #board-info-bottom a,
 #board-info #viewers-area,
 #board-info h1>a,
-#main .menu-wrapper>a {
-    border-bottom: none;
-    background:#ffb961;
-    border-radius:30px;
-    border:4px solid #ffb961;
+#main .menu-wrapper>a{
+  color: #4C4646
 }
 
 #main .menu-wrapper>a>em {
@@ -118,7 +115,8 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #main .menu-wrapper .spacer {
-  background: #rgba(235, 234, 232, 0);
+  background: #543864;
+  display:block;
   height: 0.15em;
 }
 
