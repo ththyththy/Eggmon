@@ -86,8 +86,11 @@ header #header-bar #header-top-notice strong.notice-badge{
 #board-info #board-info-bottom a,
 #board-info #viewers-area,
 #board-info h1>a,
-#main .menu-wrapper>a{
-  color: #4C4646
+#main .menu-wrapper>a {
+    border-bottom: none;
+    background:#4C4646;
+    border-radius:30px;
+    border:4px solid #4C4646;
 }
 
 #main .menu-wrapper>a>em {
