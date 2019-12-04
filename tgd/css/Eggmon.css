@@ -96,6 +96,10 @@ header #header-bar #header-top-notice strong.notice-badge{
     border:4px solid #ffb961;
 }
 
+#main .menu-wrapper>a:hover {
+  animation: infinite mabataki 2s
+}
+
 #main .menu-wrapper>a>em {
   color: #fff;
   text-decoration: none;
